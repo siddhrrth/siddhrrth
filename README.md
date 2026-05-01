@@ -19,4 +19,4 @@ I'd rather build something weird and interesting than something safe and boring.
 <br>
 <br>
 
-![siddharth's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=siddhrrth&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=siddhrrth&show_icons=true&theme=tokyonight)
