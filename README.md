@@ -15,3 +15,6 @@ Facts:
 Dark theme everywhere, no exceptions
 
 I'd rather build something weird and interesting than something safe and boring..
+
+
+[siddhrrth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhrrth&show_icons=true&theme=tokyonight)
