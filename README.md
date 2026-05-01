@@ -17,4 +17,4 @@ Dark theme everywhere
 I'd rather build something weird and interesting than something safe and boring..
 
 
-![Siddharth S' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=siddhrrth&show_icons=true&theme=tokyonight)
+![Siddharth S' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=siddhrrth&show_icons=true&theme=tokyonight) &emsp; &emsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB0Z2lvcnRxdTM4b3U3bWQzbjdzb2lreHJhZzB3a2VwazZ6dnhkMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" width="250">
