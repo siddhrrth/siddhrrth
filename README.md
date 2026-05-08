@@ -11,6 +11,7 @@ I've built an AI chatbot, a gesture based navigation mouse, a gesture controlled
 If you want to see what I've made, my portfolio is [here](https://siddhrrth.github.io/Portfolio).
 
 Facts:
+
 Dark theme everywhere
 
 I'd rather build something weird and interesting than something safe and boring..
