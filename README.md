@@ -13,6 +13,7 @@ If you want to see what I've made, my portfolio is [here](https://siddhrrth.gith
 Facts:
 
 Dark theme everywhere
+
 I'd rather build something weird and interesting than something safe and boring..
 
 
