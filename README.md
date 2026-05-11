@@ -1,6 +1,6 @@
 Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR4MXY2aGRweHVvZHozbjh6Yzhpb2diem1qb2NycXJyNXVqMnZkNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/A9TuDEWNCjUbUpQz3W/giphy.gif" width="25">
 
-I'm [Siddharth](https://siddhrrth.github.io/Portfolio), a CS Engineering student.
+I'm [Siddharth](https://siddhrrth.github.io/Portfolio), a CS Engineering student..
 
 I like to code. If something sounds interesting enough to build, I'll build it and that's basically how most of my projects start.
 
