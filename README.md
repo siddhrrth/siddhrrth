@@ -26,15 +26,15 @@
   <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/siddhrrth">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=github&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/github?style=flat-square&color=4b0082&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/github?style=flat-square&color=483d8b&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=siddhrrth&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/siddhrrth?style=flat-square&color=4b0082&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/siddhrrth?style=flat-square&color=483d8b&label=STARS" alt="Stars" />
 
 </div>
 
@@ -101,7 +101,7 @@ An autonomous/semi-autonomous robotic system controlled via real-time hand gestu
 | **Performance** | ~30 FPS hand keypoint identification with dynamic thresholding |
 | **Security** | Hardware signal validation and auto-stop safety triggers |
 | **Impact** | Eliminates physical controllers through natural spatial interfaces |
-| **Repository** | [View Source Code](https://github.com) |
+| **Repository** | [View Source Code](https://github.com/siddhrrth) |
 
 An integrated hardware-software architecture capturing hand landmarks in real time to calculate direction vectors, sending motor control instructions wirelessly for precise navigation.
 
@@ -120,7 +120,7 @@ Computer vision tool translating hand movements into OS-level cursor motions and
 | **Performance** | Real-time landmark filtering for smooth, jitter-free cursor tracking |
 | **Security** | Isolated application process running entirely on local device |
 | **Impact** | Touchless Human-Computer Interaction (HCI) accessibility |
-| **Repository** | [View Source Code](https://github.com) |
+| **Repository** | [View Source Code](https://github.com/siddhrrth) |
 
 Maps multi-finger distance ratios and palm positioning to system events like left click, right click, dynamic scrolling, and desktop navigation without extra hardware.
 
@@ -139,7 +139,7 @@ A interactive AI application providing structured context recognition and user i
 | **Performance** | Fast response handling through asynchronous web communication |
 | **Security** | API key environment protection and sanitized client inputs |
 | **Impact** | Streamlines automated query handling with clean dark UI |
-| **Repository** | [View Source Code](https://github.com) |
+| **Repository** | [View Source Code](https://github.com/siddhrrth) |
 
 Combines custom prompt structures and frontend interface design to handle user inputs, manage dialogue sessions, and present real-time contextual feedback.
 
@@ -158,7 +158,7 @@ Full-featured database software managing resource issuance, catalog search, and 
 | **Performance** | Structured relational schema indexing for fast lookup queries |
 | **Security** | Role-based authorization for administrative vs. user views |
 | **Impact** | Automates manual record keeping and inventory verification |
-| **Repository** | [View Source Code](https://github.com) |
+| **Repository** | [View Source Code](https://github.com/siddhrrth) |
 
 Engineered with Object-Oriented Programming (OOP) paradigms to maintain transaction safety, book checkout logs, penalty calculators, and administrative dashboards.
 
@@ -208,7 +208,7 @@ Engineered with Object-Oriented Programming (OOP) paradigms to maintain transact
 
 <div align="center">
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/siddhrrth/">
   <img src="https://img.shields.io/badge/LeetCode-Daily_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://geeksforgeeks.org">
@@ -229,12 +229,12 @@ Engineered with Object-Oriented Programming (OOP) paradigms to maintain transact
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=synthwave&hide_border=true&title_color=8a2be2&icon_color=9370db&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=synthwave&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhrrth&show_icons=true&theme=synthwave&hide_border=true&title_color=8a2be2&icon_color=9370db&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhrrth&theme=synthwave&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" alt="Streak Stats" width="48%" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=synthwave&hide_border=true&title_color=8a2be2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhrrth&layout=compact&theme=synthwave&hide_border=true&title_color=8a2be2&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="60%" />
 
 </div>
 
@@ -244,7 +244,7 @@ Engineered with Object-Oriented Programming (OOP) paradigms to maintain transact
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=github&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhrrth&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -254,7 +254,7 @@ Engineered with Object-Oriented Programming (OOP) paradigms to maintain transact
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=react-dark&bg_color=0d1117&color=8a2be2&line=9370db&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhrrth&theme=react-dark&bg_color=0d1117&color=8a2be2&line=9370db&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -265,9 +265,9 @@ Engineered with Object-Oriented Programming (OOP) paradigms to maintain transact
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhrrth/siddhrrth/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhrrth/siddhrrth/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddhrrth/siddhrrth/output/github-contribution-grid-snake.svg">
   </picture>
 
 </div>
